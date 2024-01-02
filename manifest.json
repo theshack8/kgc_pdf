@@ -10,7 +10,7 @@
     "background_color":"rgb(182, 45, 45)",
     "icons": [
         {
-            "src": "images/icons/mickey.png",
+            "src": "images/icons/mickey_icon.png",
             "sizes": "192x192",
             "type": "image/png"
         }
