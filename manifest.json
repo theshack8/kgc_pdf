@@ -1,16 +1,16 @@
 {
-    "name":"Straberry",
-    "shot_name":"STR",
-    "description":"Straberry for Orange",
+    "name":"Disneyland",
+    "shot_name":"DISNEY",
+    "description":"Welcome to Disneyland",
     "scope":".",
     "start_url":"./",
     "display":"fullscreen",
     "orientation":"portrait",
-    "theme_color":"orange",
+    "theme_color":"#fff",
     "background_color":"#fff",
     "icons": [
         {
-            "src": "images/icons/strawberry.png",
+            "src": "images/icons/mickey.png",
             "sizes": "192x192",
             "type": "image/png"
         }
