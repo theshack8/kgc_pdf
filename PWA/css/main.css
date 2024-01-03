@@ -20,6 +20,15 @@ body {
     background: rgb(182, 45, 45);
 }
 
+.container a {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
 img {
     height: 100px;
     position: relative;
@@ -35,11 +44,4 @@ img {
     color: #Fff;
     font-size: 15px;
     font-weight: bold;
-}
-
-a {
-    display: block;
-    justify-content: center;
-    text-align: center;
-    align-items: center;
 }
